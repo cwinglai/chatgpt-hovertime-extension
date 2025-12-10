@@ -5,4 +5,6 @@ Chrome extension that displays a customizable timestamp for your ChatGPT prompts
 <img width="818" height="283" alt="Screenshot 2025-12-09 at 10 45 56 PM" src="https://github.com/user-attachments/assets/109412d7-090c-4229-921e-8168f3421ad8" />
 
 Customizable settings
+
+
 <img width="303" height="348" alt="Screenshot 2025-12-09 at 10 46 51 PM" src="https://github.com/user-attachments/assets/1f30b9e1-1fce-43d0-b981-b2f211319d76" />
